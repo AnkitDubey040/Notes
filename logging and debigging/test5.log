@@ -1,0 +1,20 @@
+INFO 2022-08-21 00:57:57,826 root  trying to read a file
+CRITICAL 2022-08-21 00:57:57,837 root  this is critical error msg
+ERROR 2022-08-21 00:57:57,837 root  [Errno 2] No such file or directory: 'andy.txt'
+INFO 2022-08-21 00:59:42,858 root  trying to read a file
+CRITICAL 2022-08-21 00:59:42,860 root  this is critical error msg
+ERROR 2022-08-21 00:59:42,863 root  [Errno 2] No such file or directory: 'andy.txt'
+ERROR 2022-08-21 00:59:42,866 root  [Errno 2] No such file or directory: 'andy.txt'
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\Logging project\test5.py", line 8, in <module>
+    with open("andy.txt" ,'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'andy.txt'
+INFO 2022-08-21 01:14:30,915 root  trying to read a file
+CRITICAL 2022-08-21 01:14:31,010 root  this is critical error msg
+ERROR 2022-08-21 01:14:31,010 root  [Errno 2] No such file or directory: 'andy.txt'
+ERROR 2022-08-21 01:14:31,010 root  [Errno 2] No such file or directory: 'andy.txt'
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\Logging project\test5.py", line 8, in <module>
+    with open("andy.txt" ,'r'):
+FileNotFoundError: [Errno 2] No such file or directory: 'andy.txt'
+ERROR 2022-08-21 01:14:31,075 root  error ahbddhfbdsjkf

@@ -1,0 +1,37 @@
+INFO:root:This is my first log file
+INFO:root:This is my first log file
+INFO:root:2
+INFO:root:2
+INFO:root:2
+INFO:root:This is my first log file
+WARNING:root:This is a warning nsg
+INFO:root:2
+INFO:root:2
+INFO:root:2
+INFO:root:This is my first log file
+WARNING:root:This is a warning nsg
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:This is my first log file
+
+WARNING:root:You have found 2
+WARNING:root:This is a warning nsg
+ERROR:root: This is sys error msg
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+INFO:root:This is my first log file
+WARNING:root:This is a warning nsg
+ERROR:root: This is sys error msg
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+WARNING:root:You have found 2
+INFO:root:2
+WARNING:root:You have found 2

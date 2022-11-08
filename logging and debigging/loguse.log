@@ -1,0 +1,27 @@
+INFO 2022-08-20 20:14:23,718 root  stored no entered by user is 3 and 4
+INFO 2022-08-20 20:22:41,039 root  stored no entered by user is 3 and 4
+INFO 2022-08-20 20:22:41,188 root  we are into try block of function
+INFO 2022-08-20 20:22:41,188 root  we have completed divison operation
+INFO 2022-08-20 20:23:18,086 root  stored no entered by user is 2 and 0
+INFO 2022-08-20 20:23:18,087 root  we are into try block of function
+ERROR 2022-08-20 20:23:18,088 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\Logging project\test3.py", line 21, in divide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO 2022-08-20 20:27:00,327 root  stored no entered by user is 3 and 4
+INFO 2022-08-20 20:27:00,366 root  we are into try block of function
+INFO 2022-08-20 20:27:00,383 root  we have completed divison operation
+INFO 2022-08-20 20:27:00,383 root  The return of code is 0.75
+INFO 2022-08-20 20:27:24,909 root  stored no entered by user is 2 and 0
+INFO 2022-08-20 20:27:24,910 root  we are into try block of function
+ERROR 2022-08-20 20:27:24,911 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\Logging project\test3.py", line 21, in divide
+    div=a/b
+ZeroDivisionError: division by zero
+ERROR 2022-08-20 20:31:47,092 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\Logging project\test3.py", line 21, in divide
+    div=a/b
+ZeroDivisionError: division by zero
